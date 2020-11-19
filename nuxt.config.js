@@ -1,4 +1,5 @@
-export default {
+require('dotenv').config();
+module.exports ={
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'njigui',
