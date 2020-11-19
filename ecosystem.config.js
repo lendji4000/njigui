@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'nyc_vitrine',// ici le nom de votre application
+    name: 'njigui',// ici le nom de votre application
     script: 'server/index.js',
 // Options reference: https://pm2.io/doc/en/runtime/reference/ecosystem-file/
     args: 'one two',
