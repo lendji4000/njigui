@@ -21,10 +21,10 @@
                           <img src="/assets/images/logo-dark.png" class="main-logo" width="128" alt="Awesome Image" />
                       </a>
                       <div class="header__social">
-                          <a href="#"><i class="fab fa-twitter"></i></a>
-                          <a href="#"><i class="fab fa-facebook-square"></i></a>
-                          <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                          <a href="#"><i class="fab fa-instagram"></i></a>
+<!--                          <a href="#"><i class="fab fa-twitter"></i></a>-->
+<!--                          <a href="#"><i class="fab fa-facebook-square"></i></a>-->
+<!--                          <a href="#"><i class="fab fa-pinterest-p"></i></a>-->
+<!--                          <a href="#"><i class="fab fa-instagram"></i></a>-->
                       </div><!-- /.header__social -->
                       <button class="menu-toggler" data-target=".main-navigation">
                           <span class="kipso-icon-menu"></span>

@@ -1,30 +1,22 @@
 {
-  "name": "njigui",
+  "name": "kipso",
   "version": "1.0.0",
+  "description": "Kipso - Vue Nuxt Online Education Learning & LMS Template",
+  "author": "Layerdrops",
   "private": true,
   "scripts": {
-    "dev" : "cross-env NODE_ENV=development nodemon server/index.js --watch server\"",
+    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "test": "jest"
+    "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.12.2",
-    "@nuxtjs/pwa": "^3.0.2",
-    "core-js": "^3.6.5",
     "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
-    "loadash": "^1.0.0",
-    "nuxt": "^2.14.6"
-  },
-  "devDependencies": {
-    "@vue/test-utils": "^1.1.0",
-    "babel-core": "7.0.0-bridge.0",
-    "babel-jest": "^26.5.0",
     "express": "^4.17.1",
-    "jest": "^26.5.0",
+    "loadash": "^1.0.0",
     "nodemon": "^2.0.6",
-    "vue-jest": "^3.0.4"
-  }
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
 }
