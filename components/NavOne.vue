@@ -3,13 +3,13 @@
       <div class="topbar-one">
           <div class="container">
               <div class="topbar-one__left">
-                  <a href="#">needhelp@kipso.com</a>
-                  <a href="#">444 888 0000</a>
+                  <a href="#">augustin.njigui01@gmail.com</a>
+                  <a href="#">+33 (0)6 98 56 66 33 </a>
               </div><!-- /.topbar-one__left -->
-              <div class="topbar-one__right">
-                  <a href="#">Login</a>
-                  <a href="#">Register</a>
-              </div><!-- /.topbar-one__right -->
+<!--              <div class="topbar-one__right">-->
+<!--                  <a href="#">Login</a>-->
+<!--                  <a href="#">Register</a>-->
+<!--              </div>&lt;!&ndash; /.topbar-one__right &ndash;&gt;-->
           </div><!-- /.container -->
       </div><!-- /.topbar-one -->
 <header class="site-header site-header__header-one ">
@@ -34,53 +34,54 @@
                   <div class="main-navigation">
                       <ul class=" navigation-box">
                           <li class="current">
-                              <a href="/">Home</a>
+                              <a href="#">L'Entreprise <i class="fas fa-caret-down"></i></a>
                               <ul class="sub-menu">
-                                  <li><a href="/">Home 01</a></li>
-                                  <li><a href="/index-2">Home 02</a></li>
-                                  <li><a href="/index-3">Home 03</a></li>
-                                  <li><a href="#">Header Versions</a>
-                                      <ul class="sub-menu">
-                                          <li><a href="/">Header 01</a></li>
-                                          <li><a href="/index-2">Header 02</a></li>
-                                          <li><a href="/index-3">Header 03</a></li>
-                                      </ul><!-- /.sub-menu -->
-                                  </li>
+                                  <li><a href="/">L'Entreprise</a></li>
+                                  <li><a href="#">Nos Valeurs</a></li>
+                                  <li><a href="#">L'Equipe</a></li>
+                                <li><a href="/offres">Offres</a></li>
+<!--                                  <li><a href="#">Header Versions</a>-->
+<!--                                      <ul class="sub-menu">-->
+<!--                                          <li><a href="/">Header 01</a></li>-->
+<!--                                          <li><a href="/index-2">Header 02</a></li>-->
+<!--                                          <li><a href="/index-3">Header 03</a></li>-->
+<!--                                      </ul>&lt;!&ndash; /.sub-menu &ndash;&gt;-->
+<!--                                  </li>-->
                               </ul><!-- /.sub-menu -->
                           </li>
                           <li>
-                              <a href="#">Pages</a>
+                              <a href="/about">Qui sommes nous?</a>
+<!--                              <ul class="sub-menu">-->
+<!--                                  <li><nuxt-link to="/about">About Page</nuxt-link></li>-->
+<!--                                  <li><nuxt-link to="/gallery">Gallery</nuxt-link></li>-->
+<!--                                  <li><nuxt-link to="/pricing">Pricing Plans</nuxt-link></li>-->
+<!--                                  <li><nuxt-link to="/faq">FAQ'S</nuxt-link></li>-->
+<!--                              </ul>&lt;!&ndash; /.sub-menu &ndash;&gt;-->
+                          </li>
+                          <li>
+                              <nuxt-link to="#">Secteurs <i class="fas fa-caret-down"></i></nuxt-link>
                               <ul class="sub-menu">
-                                  <li><nuxt-link to="/about">About Page</nuxt-link></li>
-                                  <li><nuxt-link to="/gallery">Gallery</nuxt-link></li>
-                                  <li><nuxt-link to="/pricing">Pricing Plans</nuxt-link></li>
-                                  <li><nuxt-link to="/faq">FAQ'S</nuxt-link></li>
+                                  <li><nuxt-link to="#">Secteur 1</nuxt-link></li>
+                                  <li><nuxt-link to="#">Secteur 2</nuxt-link></li>
                               </ul><!-- /.sub-menu -->
                           </li>
                           <li>
-                              <nuxt-link to="/courses">Courses</nuxt-link>
+                              <nuxt-link to="#">Actualité <i class="fas fa-caret-down"></i></nuxt-link>
                               <ul class="sub-menu">
-                                  <li><nuxt-link to="/courses">Courses</nuxt-link></li>
-                                  <li><nuxt-link to="/course-details">Course Details</nuxt-link></li>
+                                  <li><nuxt-link to="#">Nos dernières missions</nuxt-link></li>
+                                  <li><nuxt-link to="#"> Vie de l'entreprise</nuxt-link></li>
+                                  <li><nuxt-link to="#">Parole d'experts</nuxt-link></li>
                               </ul><!-- /.sub-menu -->
                           </li>
+<!--                          <li>-->
+<!--                              <nuxt-link to="/About">A Propos</nuxt-link>-->
+<!--                              <ul class="sub-menu">-->
+<!--                                  <li><nuxt-link to="/news">News Page</nuxt-link></li>-->
+<!--                                  <li><nuxt-link to="/news-details">News Details</nuxt-link></li>-->
+<!--                              </ul>&lt;!&ndash; /.sub-menu &ndash;&gt;-->
+<!--                          </li>-->
                           <li>
-                              <nuxt-link to="/teachers">Teachers</nuxt-link>
-                              <ul class="sub-menu">
-                                  <li><nuxt-link to="/teachers">Teachers</nuxt-link></li>
-                                  <li><nuxt-link to="/teacher-details">Teachers Details</nuxt-link></li>
-                                  <li><nuxt-link to="/become-teacher">Become Teacher</nuxt-link></li>
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                          <li>
-                              <nuxt-link to="/news">News</nuxt-link>
-                              <ul class="sub-menu">
-                                  <li><nuxt-link to="/news">News Page</nuxt-link></li>
-                                  <li><nuxt-link to="/news-details">News Details</nuxt-link></li>
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                          <li>
-                              <nuxt-link to="/contact">Contact</nuxt-link>
+                              <nuxt-link to="/contact">Nous Contacter</nuxt-link>
                           </li>
                       </ul>
                   </div><!-- /.navbar-collapse -->

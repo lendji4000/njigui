@@ -1,46 +1,35 @@
 <template>
-  <section class="about-one ">
-      <img src="/assets/images/circle-stripe.png" class="about-one__circle" alt="">
-      <div class="container text-center">
-          <div class="block-title text-center">
-              <h2 class="block-title__title">Let’s do study with <br>
-                  expert teachers</h2><!-- /.block-title__title -->
-          </div><!-- /.block-title -->
-          <div class="about-one__img">
-              <div class="row">
-                  <div class="col-lg-6">
-                      <img src="/assets/images/about-2-1.jpg" alt="">
-                  </div><!-- /.col-lg-6 -->
-                  <div class="col-lg-6">
-                      <img src="/assets/images/about-2-2.jpg" alt="">
-                  </div><!-- /.col-lg-6 -->
-              </div><!-- /.row -->
-              <div class="about-one__review">
-                  <p class="about-one__review-count counter">88750</p><!-- /.about-one__review-count -->
-                  <div class="about-one__review-stars">
-                      <i class="fas fa-star"></i><!-- /.fa fa-star -->
-                      <i class="fas fa-star"></i><!-- /.fa fa-star -->
-                      <i class="fas fa-star"></i><!-- /.fa fa-star -->
-                      <i class="fas fa-star"></i><!-- /.fa fa-star -->
-                      <i class="fas fa-star"></i><!-- /.fa fa-star -->
-                  </div><!-- /.about-one__stars -->
-                  <p class="about-one__review-text">students loved us</p><!-- /.about-one__review-text -->
-              </div><!-- /.about-one__review -->
-          </div><!-- /.about-one__img -->
-          <p class="about-one__text">There are many variations of passages of lorem ipsum available, but the majority have
-              <br>
-              suffered alteration in some form, by injected humour words which don't look even slightly <br> believable.
-              Lorem
-              Ipsn gravida nibh vel velit auctor aliquetn auci elit cons.</p><!-- /.about-one__text -->
-          <a href="#" class="thm-btn about-one__btn">Start Learning Now</a><!-- /.thm-btn -->
-      </div><!-- /.container -->
+  <section class="become-teacher">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="become-teacher__content">
+
+            <h2 class="become-teacher__subtitle">Un cabinet conseil en management</h2><!-- /.become-teacher__title -->
+
+            <p class="become-teacher__text"> TCG Conseil & Management est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.<br>
+
+              Nous proposons à nos clients un accompagnement sur quatre axes – stratégie et organisation – conduite de programme et de projet – mise en place de solutions technologiques – formation et conduite du changement.<br>
+
+              TCG Conseil & Management regroupe différents experts sectoriels et a pour ambition de devenir une référence et un interlocuteur privilégié dans le domaine du management opérationnel.</p><!-- /.become-teacher__text -->
+
+
+
+            <h2 class="become-teacher__subtitle">Une équipe dynamique et pluridisciplinaire</h2><!-- /.become-teacher__subtitle -->
+
+            <p class="become-teacher__text">Nos équipes totalisent plusieurs années d’expertise au sein de grandes multinationales des secteurs Pharmaceutique, Bancaire, Services, Télécommunications et Technologie de l’information.</p><!-- /.become-teacher__text -->
+          </div><!-- /.become-teacher__content -->
+        </div><!-- /.col-lg-6 -->
+      </div><!-- /.row -->
+    </div><!-- /.container -->
   </section>
+
 </template>
 
 <script>
-    export default {
-        name: "AboutOne"
-    }
+export default {
+  name: "About"
+}
 </script>
 
 <style scoped>

@@ -2,8 +2,7 @@
   <section class="team-one team-one__become-teacher">
       <div class="container">
           <div class="block-title text-center">
-              <h2 class="block-title__title">Meet the best <br>
-                  teachers</h2><!-- /.block-title__title -->
+              <h2 class="block-title__title">Rencontrez notre Equipe</h2><!-- /.block-title__title -->
           </div><!-- /.block-title -->
           <div class="row">
               <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
