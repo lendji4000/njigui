@@ -3,7 +3,7 @@
     <NavTwo />
     <BannerTwo />
     <CourseCatTwo />
-    <AboutOne />
+    <About />
     <CourseTwo />
     <TeamOne />
     <Pricing />
