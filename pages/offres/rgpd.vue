@@ -2,7 +2,7 @@
   <div>
     <NavOne />
     <PageHeader title="Offres" />
-    <Offre2 />
+    <Offre11 />
     <Footer />
   </div>
 
@@ -11,7 +11,7 @@
 import NavOne from "../../components/NavOne";
 import PageHeader from "../../components/PageHeader";
 import Footer from "../../components/Footer";
-import Offre2 from "../../components/offres/Offre2";
+import Offre11 from "../../components/offres/Offre11";
 
 
 export default {
@@ -19,11 +19,11 @@ export default {
     Footer,
     PageHeader,
     NavOne,
-    Offre2
+    Offre11
   },
   head(){
     return {
-      title: "Innov Consulting | Management des projets"
+      title: "Innov Consulting | RGPD"
     }
   }
 }

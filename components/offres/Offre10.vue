@@ -37,10 +37,7 @@
           <div class="faq-one__content">
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur iusto, minus alias iste officiis doloremque in obcaecati soluta molestiae doloribus harum nihil neque nesciunt. Ad ut odit alias modi temporibus?</p><!-- /.faq-one__text -->
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur iusto, minus alias iste officiis doloremque in obcaecati soluta molestiae doloribus harum nihil neque nesciunt. Ad ut odit alias modi temporibus?</p><!-- /.faq-one__text -->
-          </div>
-          <!-- /.faq-one__content -->
-
+          </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
     </div><!-- /.container -->

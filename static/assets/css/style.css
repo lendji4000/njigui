@@ -33,9 +33,11 @@
 /*
 * 1. common styles
 */
+
+
 body {
   font-family: "Poppins";
-  color: #81868a;
+  color: #000000;
   font-size: 16px;
   line-height: 34px;
   letter-spacing: -0.02em;
@@ -1563,6 +1565,14 @@ a:visited {
   transition: -webkit-transform .4s ease;
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
+}
+
+a {
+  color: #2da397;
+}
+
+.text_justify {
+  text-align: justify;
 }
 
 .slider-three__icon-5 {
