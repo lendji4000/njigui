@@ -2,16 +2,16 @@
   <div>
     <NavOne />
     <PageHeader title="Offres" />
-    <Offres />
+    <Offre1 />
     <Footer />
   </div>
 
 </template>
 <script>
-import NavOne from "../components/NavOne";
-import PageHeader from "../components/PageHeader";
-import Footer from "../components/Footer";
-import Offres from "../components/Offres";
+import NavOne from "../../components/NavOne";
+import PageHeader from "../../components/PageHeader";
+import Footer from "../../components/Footer";
+import Offre1 from "../../components/offres/Offre1";
 
 
 export default {
@@ -19,7 +19,7 @@ export default {
     Footer,
     PageHeader,
     NavOne,
-    Offres
+    Offre1
   },
   head(){
     return {

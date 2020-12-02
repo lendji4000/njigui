@@ -2,7 +2,7 @@
   <div>
     <NavOne />
     <BannerOne />
-    <About />
+    <AboutTwo />
     <CourseOne />
     <VideoTwo />
     <CountdownOne />

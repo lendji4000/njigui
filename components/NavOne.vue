@@ -18,7 +18,7 @@
                   <!-- Brand and toggle get grouped for better mobile display -->
                   <div class="logo-box clearfix">
                       <a class="navbar-brand" href="/">
-                          <img src="/assets/images/logo-dark.png" class="main-logo" width="128" alt="Awesome Image" />
+                          <img src="/assets/images/Inov_logo.png" class="main-logo" width="128" alt="Awesome Image" />
                       </a>
                       <div class="header__social">
 <!--                          <a href="#"><i class="fab fa-twitter"></i></a>-->
@@ -39,7 +39,7 @@
                                   <li><a href="/">L'Entreprise</a></li>
                                   <li><a href="#">Nos Valeurs</a></li>
                                   <li><a href="#">L'Equipe</a></li>
-                                <li><a href="/offres">Offres</a></li>
+                                <li><a href="/offres/management-de-portfolio-et-programmes">Offres</a></li>
 <!--                                  <li><a href="#">Header Versions</a>-->
 <!--                                      <ul class="sub-menu">-->
 <!--                                          <li><a href="/">Header 01</a></li>-->

@@ -357,7 +357,13 @@ a:visited {
 .header-navigation .container .navbar-brand {
   height: auto;
   margin: 0;
-  line-height: 1;
+  line-height: 1px;
+}
+
+.main-logo{
+  height: 90% !important;
+  vertical-align: top;
+  padding-bottom: 1em;
 }
 .header-navigation .container .menu-toggler {
   display: none;
@@ -978,8 +984,10 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../images/patter-1-1.jpg);
-  opacity: 0.08;
+  background-image: url(../images/slider4.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.3;
 }
 .banner-one__light-color {
   color: #fff;
