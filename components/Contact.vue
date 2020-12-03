@@ -8,9 +8,9 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-manager"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">A propos </h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">Lorem ipsum is simply free text <br> available in the market to
-                              use <br>
-                              deliver satisfaction.</p><!-- /.contact-info-one__text -->
+                          <p class="contact-info-one__text"> Innov-Consulting <br> vous accompagne tout au long de vos
+                              <br>
+                             projets numériques </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">

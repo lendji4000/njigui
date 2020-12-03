@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title="Offres" />
+    <PageHeader title1="  Management Opérationnel" title2="Mise en place des PMO" />
     <Offre3 />
     <Footer />
   </div>
