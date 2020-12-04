@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title="About" />
+    <PageHeader title1="Qui Sommes Nous?" />
     <AboutOne />
     <TeamOne />
     <VideoOne />

@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title="Offres" />
+    <PageHeader   title1="  Management Opérationnel" title2="Conduite du Changement" />
     <Offre4 />
     <Footer />
   </div>

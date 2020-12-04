@@ -10,10 +10,10 @@
                   <img src="/assets/images/Slider_Image.jpg" class="banner-one__person" alt="">
                   <div class="row no-gutters">
                       <div class="col-xl-12">
-                          <h3 class="banner-one__title banner-one__light-color">We Can <br>
-                              Teach You</h3><!-- /.banner-one__title -->
-                          <p class="banner-one__tag-line">are you ready to learn?</p><!-- /.banner-one__tag-line -->
-                          <a href="#" class="thm-btn banner-one__btn">Learn More</a>
+                          <h1 class="banner-one__title banner-one__light-color">l'accompagnement dans <br>
+                              vos projets IT</h1><!-- /.banner-one__title -->
+                          <p class="banner-one__tag-line">quelles sont vos projet?</p><!-- /.banner-one__tag-line -->
+                          <a href="#" class="thm-btn banner-one__btn">En savoir plus</a>
                       </div><!-- /.col-xl-12 -->
                   </div><!-- /.row -->
               </div><!-- /.container -->
@@ -27,10 +27,10 @@
                   <img src="/assets/images/slider5.jpg" class="banner-one__person" alt="">
                   <div class="row no-gutters">
                       <div class="col-xl-12">
-                          <h3 class="banner-one__title banner-one__light-color">We Can <br>
-                              Teach You</h3><!-- /.banner-one__title -->
-                          <p class="banner-one__tag-line">are you ready to learn?</p><!-- /.banner-one__tag-line -->
-                          <a href="#" class="thm-btn banner-one__btn">Learn More</a>
+                          <h3 class="banner-one__title banner-one__light-color">Définir votre <br>
+                              Stratégie de Gestions</h3><!-- /.banner-one__title -->
+                          <p class="banner-one__tag-line">êtes vous pret a vous lancer?</p><!-- /.banner-one__tag-line -->
+                          <a href="#" class="thm-btn banner-one__btn">En savoir plus</a>
                       </div><!-- /.col-xl-12 -->
                   </div><!-- /.row -->
               </div><!-- /.container -->
@@ -40,19 +40,19 @@
           <a href="#" class="banner-carousel-btn__left-btn"><i class="kipso-icon-left-arrow"></i></a>
           <a href="#" class="banner-carousel-btn__right-btn"><i class="kipso-icon-right-arrow"></i></a>
       </div><!-- /.banner-carousel-btn -->
-      <div class="banner-one__cta">
-          <div class="banner-one__cta-icon">
-              <i class="kipso-icon-black-graduation-cap-tool-of-university-student-for-head"></i>
-              <!-- /.kipso-icon-knowledge -->
-          </div><!-- /.banner-one__cta-icon -->
-          <div class="banner-one__cta-title">
-              <h3 class="banner-one__cta-text"><a href="#">Read how we encourage our
-                      students to learn</a></h3><!-- /.banner-one__cta-text -->
-          </div><!-- /.banner-one__cta-title -->
-          <div class="banner-one__cta-link">
-              <a href="#"><i class="kipso-icon-right-arrow"></i><!-- /.kipso-icon-right-arrow --></a>
-          </div><!-- /.banner-one__cta-link -->
-      </div><!-- /.banner-one__cta -->
+<!--      <div class="banner-one__cta">-->
+<!--          <div class="banner-one__cta-icon">-->
+<!--              <i class="kipso-icon-black-graduation-cap-tool-of-university-student-for-head"></i>-->
+<!--              &lt;!&ndash; /.kipso-icon-knowledge &ndash;&gt;-->
+<!--          </div>&lt;!&ndash; /.banner-one__cta-icon &ndash;&gt;-->
+<!--          <div class="banner-one__cta-title">-->
+<!--              <h3 class="banner-one__cta-text"><a href="/offres/management-des-projets">En savoir plus sur nos offres-->
+<!--                     </a></h3>&lt;!&ndash; /.banner-one__cta-text &ndash;&gt;-->
+<!--          </div>&lt;!&ndash; /.banner-one__cta-title &ndash;&gt;-->
+<!--          <div class="banner-one__cta-link">-->
+<!--              <a href="#"><i class="kipso-icon-right-arrow"></i>&lt;!&ndash; /.kipso-icon-right-arrow &ndash;&gt;</a>-->
+<!--          </div>&lt;!&ndash; /.banner-one__cta-link &ndash;&gt;-->
+<!--      </div>&lt;!&ndash; /.banner-one__cta &ndash;&gt;-->
   </div>
 </template>
 

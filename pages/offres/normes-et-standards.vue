@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title="Offres" />
+    <PageHeader title1=" Gouvernance & Organisation" title2="Normes & standards" />
     <Offre9 />
     <Footer />
   </div>

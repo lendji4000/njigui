@@ -7,13 +7,16 @@
 
             <h2 class="become-teacher__subtitle">Un cabinet conseil en management</h2><!-- /.become-teacher__title -->
 
-            <p class="become-teacher__text"> TCG Conseil & Management est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.<br>
+            <p class="become-teacher__text"> Innov-Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.<br>
 
-              Nous proposons à nos clients un accompagnement sur quatre axes – stratégie et organisation – conduite de programme et de projet – mise en place de solutions technologiques – formation et conduite du changement.<br>
-
-              TCG Conseil & Management regroupe différents experts sectoriels et a pour ambition de devenir une référence et un interlocuteur privilégié dans le domaine du management opérationnel.</p><!-- /.become-teacher__text -->
-
-
+              Nous proposons à nos clients un accompagnement sur quatre axes <br>
+                  <ul>
+                    <li>Stratégie et organisation</li>
+                    <li>Conduite de programme et de projet</li>
+                    <li>Mise en place de solutions technologiques</li>
+                    <li>Formation et conduite du changement</li>
+                </ul>
+              Innov-Consulting regroupe différents experts sectoriels et a pour ambition de devenir une référence et un interlocuteur privilégié dans le domaine du management opérationnel.</p><!-- /.become-teacher__text -->
 
             <h2 class="become-teacher__subtitle">Une équipe dynamique et pluridisciplinaire</h2><!-- /.become-teacher__subtitle -->
 
@@ -27,8 +30,10 @@
 </template>
 
 <script>
+import Default from "../layouts/default";
 export default {
-  name: "About"
+  name: "About",
+  components: {Default}
 }
 </script>
 

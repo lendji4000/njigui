@@ -18,7 +18,7 @@
                   <!-- Brand and toggle get grouped for better mobile display -->
                   <div class="logo-box clearfix">
                       <a class="navbar-brand" href="/">
-                          <img src="/assets/images/Inov_logo.png" class="main-logo" width="128" alt="Awesome Image" />
+                          <img src="/assets/images/Inov_logo1.png" class="main-logo" width="128" alt="Awesome Image" />
                       </a>
                       <div class="header__social">
 <!--                          <a href="#"><i class="fab fa-twitter"></i></a>-->
@@ -39,7 +39,7 @@
                                   <li><a href="/">L'Entreprise</a></li>
                                   <li><a href="#">Nos Valeurs</a></li>
                                   <li><a href="#">L'Equipe</a></li>
-                                <li><a href="/offres/management-de-portfolio-et-programmes">Offres</a></li>
+
 <!--                                  <li><a href="#">Header Versions</a>-->
 <!--                                      <ul class="sub-menu">-->
 <!--                                          <li><a href="/">Header 01</a></li>-->
@@ -58,28 +58,15 @@
 <!--                                  <li><nuxt-link to="/faq">FAQ'S</nuxt-link></li>-->
 <!--                              </ul>&lt;!&ndash; /.sub-menu &ndash;&gt;-->
                           </li>
-                          <li>
-                              <nuxt-link to="#">Secteurs <i class="fas fa-caret-down"></i></nuxt-link>
-                              <ul class="sub-menu">
-                                  <li><nuxt-link to="#">Secteur 1</nuxt-link></li>
-                                  <li><nuxt-link to="#">Secteur 2</nuxt-link></li>
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                          <li>
-                              <nuxt-link to="#">Actualité <i class="fas fa-caret-down"></i></nuxt-link>
-                              <ul class="sub-menu">
-                                  <li><nuxt-link to="#">Nos dernières missions</nuxt-link></li>
-                                  <li><nuxt-link to="#"> Vie de l'entreprise</nuxt-link></li>
-                                  <li><nuxt-link to="#">Parole d'experts</nuxt-link></li>
-                              </ul><!-- /.sub-menu -->
-                          </li>
-<!--                          <li>-->
-<!--                              <nuxt-link to="/About">A Propos</nuxt-link>-->
-<!--                              <ul class="sub-menu">-->
-<!--                                  <li><nuxt-link to="/news">News Page</nuxt-link></li>-->
-<!--                                  <li><nuxt-link to="/news-details">News Details</nuxt-link></li>-->
-<!--                              </ul>&lt;!&ndash; /.sub-menu &ndash;&gt;-->
-<!--                          </li>-->
+
+
+                        <li class="current">
+                          <a href="#">Secteurs <i class="fas fa-caret-down"></i></a>
+                          <ul class="sub-menu">
+                            <li><a href="/offres/management-de-portfolio-et-programmes">Management opérationnel</a></li>
+                            <li><a href="/offres/gouvernance-schema">Gouvernance & Organisation</a></li>
+                          </ul><!-- /.sub-menu -->
+                        </li>
                           <li>
                               <nuxt-link to="/contact">Nous Contacter</nuxt-link>
                           </li>

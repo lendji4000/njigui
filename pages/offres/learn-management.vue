@@ -1,8 +1,8 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title="Offres" />
-    <Offre6 />
+    <PageHeader title1="  Management Opérationnel" title2="Lean Management"/>
+    <Offre12 />
     <Footer />
   </div>
 
@@ -11,7 +11,7 @@
 import NavOne from "../../components/NavOne";
 import PageHeader from "../../components/PageHeader";
 import Footer from "../../components/Footer";
-import Offre6 from "../../components/offres/Offre6";
+import Offre12 from "../../components/offres/Offre12";
 
 
 export default {
@@ -19,7 +19,7 @@ export default {
     Footer,
     PageHeader,
     NavOne,
-    Offre6
+    Offre12
   },
   head(){
     return {
