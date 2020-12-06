@@ -41,15 +41,15 @@
               <form action="/assets/sendemail.php" class="contact-one__form contact-form-validated" novalidate="novalidate">
                   <div class="row low-gutters">
                       <div class="col-lg-6">
-                          <input type="text" name="name" placeholder="Votre Nom" required>
+                          <input type="text" name="name" placeholder="Votre Nom" v-model="name" required>
                       </div><!-- /.col-lg-6 -->
                       <div class="col-lg-6">
-                          <input type="text" placeholder="Addresse Email " name="email" required>
+                          <input type="text" placeholder="Addresse Email " name="email" v-model="email" required>
                       </div><!-- /.col-lg-6 -->
                       <div class="col-lg-12">
-                          <textarea placeholder="Message" name="message" required></textarea>
+                          <textarea placeholder="Message" name="message" required v-model="message"></textarea>
                           <div class="text-center">
-                              <button type="submit" class="contact-one__btn thm-btn">Envoyer</button>
+                              <button type="submit" class="contact-one__btn thm-btn" @click.prevent="envoieFormulaire">Envoyer</button>
                           </div><!-- /.text-center -->
                       </div><!-- /.col-lg-12 -->
                   </div><!-- /.row -->
@@ -65,8 +65,22 @@
 </template>
 
 <script>
+import API from "../API/index"
     export default {
-        name: "Contact"
+        name: "Contact",
+      data: function () {
+         return{
+           email: '',
+           name: '',
+           message: ''
+         }
+      },
+      methods: {
+          envoieFormulaire:async function () {
+            API.createContact({email:this.email, title:this.name, description:this.message, mail:"augustin.njigui01@gmail.com"}).then((data) => {
+              console.log("contact",data)})
+          }
+      }
     }
 </script>
 

@@ -37,7 +37,7 @@
     },
     head(){
       return {
-        title: "Kipso | About Us"
+        title: "Innov-Consulting | Qui sommes nous"
       }
     }
   }

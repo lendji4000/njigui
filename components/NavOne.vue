@@ -37,8 +37,8 @@
                               <a href="#">L'Entreprise <i class="fas fa-caret-down"></i></a>
                               <ul class="sub-menu">
                                   <li><a href="/">L'Entreprise</a></li>
-                                  <li><a href="#">Nos Valeurs</a></li>
-                                  <li><a href="#">L'Equipe</a></li>
+                                  <li><a href="/valeurs">Nos Valeurs</a></li>
+<!--                                  <li><a href="#">L'Equipe</a></li>-->
 
 <!--                                  <li><a href="#">Header Versions</a>-->
 <!--                                      <ul class="sub-menu">-->
