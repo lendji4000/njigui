@@ -77,7 +77,7 @@ import API from "../API/index"
       },
       methods: {
           envoieFormulaire:async function () {
-            API.createContact({email:this.email, title:this.name, description:this.message, mail:"lucrenedjoumesi@gmail.com"}).then((data) => {
+            API.createContact({email:this.email, title:this.name, description:this.message, mail:"augustin.njigui01@gmail.com"}).then((data) => {
               console.log("contact",data)})
           }
       }

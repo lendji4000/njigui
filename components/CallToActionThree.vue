@@ -22,7 +22,7 @@
                         </div><!-- /.cta-three__single -->
                         <div class="cta-three__single">
                             <i class="kipso-icon-training"></i><!-- /.kipso-icon-training -->
-                            <p class="cta-three__single-text">100% Disponible
+                            <p class="cta-three__single-text">100% Dynamique
                                 </p><!-- /.cta-three__single-text -->
                         </div><!-- /.cta-three__single -->
                         <div class="cta-three__single">

@@ -13,9 +13,9 @@
                 </div><!-- /.col-lg-6 -->
                 <div class="col-lg-6 d-flex">
                     <div class="my-auto">
-                        <form action="#" class="mailchimp-one__form mc-form">
+                        <form action="#" class="mailchimp-one__form mc-form" @submit="Souscrire">
                             <input type="text" id="mc-email" placeholder="Entrez votre adresse email " v-model="email">
-                            <button type="submit" class="thm-btn" @click.prevent="envoieFormulaire">Souscrire</button>
+                            <button type="submit" class="thm-btn" @click.prevent="envoieFormulaire" > Souscrire</button>
                         </form><!-- /.mailchimp-one__form -->
                         <div class="mc-form__response"></div><!-- /.mc-form__response -->
                     </div><!-- /.my-auto -->
@@ -30,17 +30,26 @@ import API from "../API/index"
 export default {
   name: "Subscribe",
   data: function () {
-    return{
+    return {
       email: ''
-    }
+    };
   },
   methods: {
-    envoieFormulaire:async function () {
-      API.createContact({email:this.email, mail:"emekontso03.professional@gmail.com"}).then((data) => {
-        console.log("souscrire",data)})
+    envoieFormulaire: async function () {
+      API.createContact({email: this.email, mail: "augustin.njigui01@gmail.com"}).then((data) => {
+        console.log("souscrire", data)
+      })
+    },
+    methods: {
+      login(e) {
+        console.log("login function called")
+        e.preventDefault()
+      },
     }
-  }
+  },
+
 }
+
 </script>
 
 <style scoped>

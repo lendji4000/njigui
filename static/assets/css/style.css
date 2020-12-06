@@ -2096,6 +2096,7 @@ a {
   padding-left: 70px;
 }
 .cta-three__text {
+  text-align: justify;
   font-size: 16px;
   line-height: 34px;
   color: #000000;
@@ -4283,6 +4284,10 @@ a {
 
 .inner-banner-img-2 {
   background-image: url(../images/Inov_Backround.jpg);
+}
+
+.inner-banner-img-3 {
+  background-image: url(../images/valeurs2.jpg);
 }
 
 .inner-banner::before {
