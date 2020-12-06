@@ -6,11 +6,11 @@
     <CourseOne />
     <VideoTwo />
     <CountdownOne />
-    <CourseCategory />
+<!--    <CourseCategory />-->
     <CallToActionThree />
     <ClientsLogoTwo />
-    <BlogCarousel />
-    <CallToActionFour />
+<!--    <BlogCarousel />-->
+<!--    <CallToActionFour />-->
     <Subscribe />
     <Footer />
   </div>
@@ -24,21 +24,21 @@
   import CourseOne from "../components/CourseOne";
   import VideoTwo from "../components/VideoTwo";
   import CountdownOne from "../components/CountdownOne";
-  import CourseCategory from "../components/CourseCategory";
+  // import CourseCategory from "../components/CourseCategory";
   import CallToActionThree from "../components/CallToActionThree";
   import ClientsLogoTwo from "../components/ClientsLogoTwo";
-  import BlogCarousel from "../components/BlogCarousel";
-  import CallToActionFour from "../components/CallToActionFour";
+  // import BlogCarousel from "../components/BlogCarousel";
+  // import CallToActionFour from "../components/CallToActionFour";
   import Subscribe from "../components/Subscribe";
 
   export default {
     components: {
       Subscribe,
-      CallToActionFour,
-      BlogCarousel,
+      // CallToActionFour,
+      // BlogCarousel,
       ClientsLogoTwo,
       CallToActionThree,
-      CourseCategory,
+      // CourseCategory,
       CountdownOne,
       VideoTwo,
       CourseOne,

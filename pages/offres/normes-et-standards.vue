@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title1=" Gouvernance & Organisation" title2="Normes & standards" />
+    <PageHeader2 title1=" Gouvernance & Organisation" title2="Normes & standards" />
     <Offre9 />
     <Footer />
   </div>
@@ -9,7 +9,7 @@
 </template>
 <script>
 import NavOne from "../../components/NavOne";
-import PageHeader from "../../components/PageHeader";
+import PageHeader2 from "../../components/PageHeader2";
 import Footer from "../../components/Footer";
 import Offre9 from "../../components/offres/Offre9";
 
@@ -17,7 +17,7 @@ import Offre9 from "../../components/offres/Offre9";
 export default {
   components: {
     Footer,
-    PageHeader,
+    PageHeader2,
     NavOne,
     Offre9
   },

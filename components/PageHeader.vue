@@ -1,5 +1,5 @@
 <template>
-  <section class="inner-banner">
+  <section class="inner-banner inner-banner-img-1">
       <div class="container">
           <ul class="list-unstyled thm-breadcrumb">
               <li><a href="/">l'Entreprise :   </a></li>

@@ -19,6 +19,7 @@
                     </ul>
                       <div class="about-two__single-wrap">
 <!--                          <div class="about-two__single">-->
+<!--                          <div class="about-two__single">-->
 <!--&lt;!&ndash;                              <div class="about-two__single-icon">&ndash;&gt;-->
 <!--&lt;!&ndash;                                  <i class="kipso-icon-professor"></i>&lt;!&ndash; /.kipso-icon-professor &ndash;&gt;&ndash;&gt;-->
 <!--&lt;!&ndash;                              </div>&lt;!&ndash; /.about-two__single-icon &ndash;&gt;&ndash;&gt;-->
@@ -37,7 +38,7 @@
 <!--                              </div>&lt;!&ndash; /.about-two__single-content &ndash;&gt;-->
 <!--                          </div>&lt;!&ndash; /.about-two__single &ndash;&gt;-->
                       </div><!-- /.about-two__single-wrap -->
-                      <a href="#" class="thm-btn">En savoir Plus</a><!-- /.thm-btn -->
+<!--                      <a href="#" class="thm-btn">En savoir Plus</a>&lt;!&ndash; /.thm-btn &ndash;&gt;-->
                   </div><!-- /.about-two__content -->
               </div><!-- /.col-lg-6 -->
               <div class="col-xl-6 d-flex justify-content-xl-end justify-content-sm-center">
