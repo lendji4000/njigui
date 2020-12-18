@@ -36,7 +36,7 @@
           <div class="col-lg-8">
             <div class="faq-one__content text_justify">
               <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
-              <p>Le cadre de référence de gestion de programme pour lequel Innov-Consulting a opté est le MSP™ (Managing Successful Programme).</p><!-- /.faq-one__text -->
+              <p>Le cadre de référence de gestion de programme pour lequel Inov-Consulting a opté est le MSP™ (Managing Successful Programme).</p><!-- /.faq-one__text -->
               <p>MSP s’appuie sur trois concepts essentiels : <br>
                   <ul>
                     <li> Les principes MSP™ issus des enseignements (positifs et négatifs) tirés des expériences sur les programmes. Ce sont les éléments communs qui constituent les moteurs de la réussite de tout changement transactionnel</li>

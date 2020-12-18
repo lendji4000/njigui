@@ -36,7 +36,7 @@
         <div class="col-lg-8">
           <div class="faq-one__content text_justify">
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
-            <p>Innov-Consulting possède de prestigieuses certifications et accréditations en gestion de projet principalement PRINCE2™ et PMI™. Nous accompagnons nos clients dans toutes les phases de la réalisation de leur projet à savoir :</p><!-- /.faq-one__text -->
+            <p>Inov-Consulting possède de prestigieuses certifications et accréditations en gestion de projet principalement PRINCE2™ et PMI™. Nous accompagnons nos clients dans toutes les phases de la réalisation de leur projet à savoir :</p><!-- /.faq-one__text -->
             <p><h5>Démarrage</h5>
             Éléments principaux :
             <ul>
@@ -112,7 +112,7 @@
             </ul>
             </p><!-- /.faq-one__text -->
 
-            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet Innov-Consulting à l’adresse Innov-consulting.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet Inov-Consulting à l’adresse Inov-consulting.com</p>
 
           </div>
           <!-- /.faq-one__content -->

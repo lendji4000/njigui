@@ -53,7 +53,7 @@
                               <div class="col-xl-3 col-lg-6 col-sm-12">
                                   <div class="footer-widget footer-widget__about">
                                       <h2 class="footer-widget__title">A propos</h2><!-- /.footer-widget__title -->
-                                      <p class="footer-widget__text">Innov-Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.</p><!-- /.footer-widget__text -->
+                                      <p class="footer-widget__text">Inov-Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.</p><!-- /.footer-widget__text -->
                                       <div class="footer-widget__btn-block">
                                           <a href="/contact" class="thm-btn">Contact</a><!-- /.thm-btn -->
 <!--                                          <a href="#" class="thm-btn">Purchase</a>&lt;!&ndash; /.thm-btn &ndash;&gt;-->

@@ -47,8 +47,8 @@
           </ul>
             </p>
             <p>L’implication et la participation des parties prenantes dans la démarche est un facteur clé de réussite, la conduite du changement ne saurait se limiter à des actions de formation et de sensibilisation.</p>
-            <p>Notre forte expérience des grands projets de transformation des organisations fait de Innov-Consulting un acteur de référence de la Conduite du Changement.</p>
-            <p>Pour plus d’information sur cette offre, veuillez nous contacter à l’adresse suivante innov-consulting.com
+            <p>Notre forte expérience des grands projets de transformation des organisations fait de Inov-Consulting un acteur de référence de la Conduite du Changement.</p>
+            <p>Pour plus d’information sur cette offre, veuillez nous contacter à l’adresse suivante inov-consulting.com
 
             </p>
 

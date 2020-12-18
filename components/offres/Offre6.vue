@@ -37,7 +37,7 @@
           <div class="faq-one__content text_justify ">
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
             <p>Souhaitez-vous déléguer à un fournisseur la gestion de votre système d’information ? Comment opérer cette transition en évitant une rupture des opérations et en maintenant une qualité de service élevée ?</p>
-            <p> Le cabinet Innov-Consulting a développé une méthodologie particulière de gestion de projets de Transition & Transformation (T&T).</p>
+            <p> Le cabinet Inov-Consulting a développé une méthodologie particulière de gestion de projets de Transition & Transformation (T&T).</p>
             <p> Cette méthodologie s’articule autour des points suivants :
             <ul>
             <li>Une phase de Discovery consistant à l’analyse de SI existant (Current Mode of Operation) et a la spécification du SI cible (Future Mode of Operation)</li>

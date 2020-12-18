@@ -37,7 +37,7 @@
           <div class="faq-one__content text_justify">
             <p>‘’Penser sur le long terme  – fondez vos décisions sur une philosophie à long terme, même au détriment des objectifs financiers à court terme’’</p>
             <p> Le LEAN est issu du Toyota Production System (TPS), initié par Taiichi Ohno, au Japon dans les années 50. Il nous propose un système global efficace et performant reposant  sur deux piliers, respect des personnes et amélioration continue, ainsi que sur 14 principes de management, hautement différentiateurs.</p>
-            <p>Le Innov-Consulting vous accompagne dans la mise en œuvre des processus recommandés par le LEAN qui sont fondés sur le principe que le les bons processus donneront les bons résultats.
+            <p>Le Inov-Consulting vous accompagne dans la mise en œuvre des processus recommandés par le LEAN qui sont fondés sur le principe que le les bons processus donneront les bons résultats.
             <h5>Les 14 principes du Lean Management</h5>
             <ul>
               <li>Fluidité : Organisez les processus en flux pièce à pièce pour mettre au jour les problèmes.</li>
@@ -60,7 +60,7 @@
             <p>Suite à la mise en place et/ou l’évaluation de la maturité de ces processus au sein de votre organisation, TCG Conseil & Management vous attribue une notation. Pour plus de détail sur la notation TCG Conseil & Management veuillez nous contacter à l’adresse info@tcg-cm.com</p>
             </p>
 
-            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet Innov-Consulting à l’adresse Innov-Consulting.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet Inov-Consulting à l’adresse Inov-Consulting.com</p>
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->

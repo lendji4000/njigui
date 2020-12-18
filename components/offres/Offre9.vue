@@ -35,7 +35,7 @@
         </div>
         <div class="col-lg-8">
           <div class="faq-one__content text_justify">
-            <p>Innov-Consulting vous accompagne dans la mise en œuvre et le suivi du système de qualité que vous souhaitez déployer au sein de votre organisation</p>
+            <p>Inov-Consulting vous accompagne dans la mise en œuvre et le suivi du système de qualité que vous souhaitez déployer au sein de votre organisation</p>
             <p>Normes et Standard : ISO 9001, CMMI, SOX IT, ITIL, COBIT
 
               <ul>
@@ -46,7 +46,7 @@
                 <li>Réaliser des audits internes</li>
               </ul>
             </p>
-            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet TCG Conseil & Management à l’adresse Innov-consulting.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet TCG Conseil & Management à l’adresse Inov-consulting.com</p>
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->

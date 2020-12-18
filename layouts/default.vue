@@ -12,7 +12,7 @@
     },
     head(){
       return {
-        title: "Innov-Consulting"
+        title: "Inov-Consulting"
       }
     },
     mounted () {

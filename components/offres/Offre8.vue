@@ -38,9 +38,9 @@
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
             <p>La sécurité des systèmes d’information est un enjeu majeur pour les entreprises. Vous vous interrogez sur les menaces auxquelles votre entreprise est exposée ? Quelle est la maturité des processus mis en place au sein de votre organisation ayant pour objectif de garantir la Confidentialité, la Disponibilité et l’Intégrité des données ?</p>
-            <p>Innov-Consulting à travers son offre Sécurité des Systèmes d’Information vous accompagne dans l’évaluation et la gestion des risques et vulnérabilités, la mise en place d’une gouvernance de la sécurité de vos systèmes d’information ainsi que la sécurisation de vos opérations.</p>
+            <p>Inov-Consulting à travers son offre Sécurité des Systèmes d’Information vous accompagne dans l’évaluation et la gestion des risques et vulnérabilités, la mise en place d’une gouvernance de la sécurité de vos systèmes d’information ainsi que la sécurisation de vos opérations.</p>
             <p>Quelques normes et standards : SOX IT, PCI DSS, ISO 2700x, COBIT, etc..</p>
-            <p>Pour plus d’information sur la mise en place de ces normes, veuillez contacter le cabinet Innov-Consulting à l’adresse innovconsulting.com</p>          </div><!-- /.faq-one__content -->
+            <p>Pour plus d’information sur la mise en place de ces normes, veuillez contacter le cabinet Inov-Consulting à l’adresse Inov-consulting.com</p>          </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
     </div><!-- /.container -->

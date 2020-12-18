@@ -8,9 +8,9 @@
                     <p class="countdown-one__tag-line">Une équipe toujours a votre écoute</p>
                     <!-- /.countdown-one__tag-line -->
                     <p class="countdown-one__text">
-                      A travers notre cabinet, Innov consulting, nous formons les leaders de demain aux bonnes pratiques du management et de gestion.
+                      A travers notre cabinet, Inov consulting, nous formons les leaders de demain aux bonnes pratiques du management et de gestion.
 
-                      Centre d’excellence et de partage d’expérience terrain, Innov consulting a obtenu de nombreuses certifications et accréditations et
+                      Centre d’excellence et de partage d’expérience terrain, Inov consulting a obtenu de nombreuses certifications et accréditations et
                       octroie les plus prestigieuses certifications en management et gestion </p><!-- /.countdown-one__text -->
 <!--                    <ul class="countdown-one__list list-unstyled">-->
 <!--                        &lt;!&ndash; content loading via js &ndash;&gt;-->
