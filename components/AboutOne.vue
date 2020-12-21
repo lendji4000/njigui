@@ -7,7 +7,12 @@
 
             <h2 class="become-teacher__subtitle">Un cabinet conseil en management</h2><!-- /.become-teacher__title -->
 
-            <p class="become-teacher__text"> Innov-Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.<br>
+            <p class="become-teacher__text">
+
+              Après plusieurs décennies dans de grandes Entreprises de Service du Numérique, et une expérience reconnue et éprouvée auprès de clients grands comptes, nous avons décidé de créer un Groupe pouvant mobiliser des
+              professionnels aguerris du management du Système d’Information.<br><br>
+
+              Inov-Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.<br>
 
               Nous proposons à nos clients un accompagnement sur quatre axes <br>
                   <ul>
@@ -16,11 +21,16 @@
                     <li>Mise en place de solutions technologiques</li>
                     <li>Formation et conduite du changement</li>
                 </ul>
-              Innov-Consulting regroupe différents experts sectoriels et a pour ambition de devenir une référence et un interlocuteur privilégié dans le domaine du management opérationnel.</p><!-- /.become-teacher__text -->
+              Inov-Consulting regroupe différents experts sectoriels et a pour ambition de devenir une référence et un interlocuteur privilégié dans le domaine du management opérationnel.</p><!-- /.become-teacher__text -->
 
             <h2 class="become-teacher__subtitle">Une équipe dynamique et pluridisciplinaire</h2><!-- /.become-teacher__subtitle -->
 
-            <p class="become-teacher__text">Nos équipes totalisent plusieurs années d’expertise au sein de grandes multinationales des secteurs Pharmaceutique, Bancaire, Services, Télécommunications et Technologie de l’information.</p><!-- /.become-teacher__text -->
+            <p class="become-teacher__text">Le PDG totalisent plusieurs années d’expertise au sein de grandes multinationales des secteurs Pharmaceutique, Bancaire, Services, Télécommunications, nucléaires, luxe, automobile et Technologie de l’information.</p><!-- /.become-teacher__text -->
+
+            <h2 class="become-teacher__subtitle">Notre valeur ajoutée </h2><!-- /.become-teacher__subtitle -->
+
+            <p class="become-teacher__text">Une équipe d'experts Mobilisables pour vous accompagner et déterminer ensemble la meilleure stratégie afin d’améliorer et maîtriser le fonctionnement de votre Système d’Information SI</p>
+
           </div><!-- /.become-teacher__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->

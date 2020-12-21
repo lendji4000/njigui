@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Management de Portfolio & Programmes"
+      title: "INOV Consulting | Management de Portfolio & Programmes"
     }
   }
 }

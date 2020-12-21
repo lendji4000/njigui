@@ -174,7 +174,7 @@
               <li>Juristes spécialisés RGPD</li>
               <li>Outils logiciels d’analyse et de cartographie de données à caractère personnel</li>
             </ul>
-            <p>Pour plus d’information, veuillez contacter le cabinet TCG Conseil & Management à l’adresse info@tcg-cm.com</p>
+            <p>Pour plus d’information, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
             </p>
             </p>
 

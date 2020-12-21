@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Gouvernance & Shéma directeur"
+      title: "INOV Consulting | Gouvernance & Shéma directeur"
     }
   }
 }

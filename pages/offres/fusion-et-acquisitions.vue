@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Fusions & Acquisitions"
+      title: "INOV Consulting | Fusions & Acquisitions"
     }
   }
 }

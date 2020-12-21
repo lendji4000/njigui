@@ -37,7 +37,7 @@
     },
     head(){
       return {
-        title: "Innov-Consulting | Qui sommes nous"
+        title: "Inov-Consulting | Qui sommes nous"
       }
     }
   }

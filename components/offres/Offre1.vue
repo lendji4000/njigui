@@ -17,7 +17,6 @@
                 <li class="list-group-item"> <a href="/offres/conduite-du-changement"> <span class="fa fa-arrow-right"></span> Conduite du Changement</a></li>
                 <li class="list-group-item"> <a href="/offres/delegation-de-maitrise"> <span class="fa fa-arrow-right"></span> Délégation de maîtrise d'Ouvrage</a></li>
                 <li class="list-group-item"> <a href="/offres/transition-transformation"> <span class="fa fa-arrow-right"></span> Transition & Transformation</a></li>
-                <li class="list-group-item"> <a href="/offres/learn-management"> <span class="fa fa-arrow-right"></span> Learn Management</a></li>
               </ul>
 
 <!--              <div class="sidebar-header" style="margin-top: 20px">-->
@@ -36,7 +35,7 @@
           <div class="col-lg-8">
             <div class="faq-one__content text_justify">
               <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
-              <p>Le cadre de référence de gestion de programme pour lequel Innov-Consulting a opté est le MSP™ (Managing Successful Programme).</p><!-- /.faq-one__text -->
+              <p>Le cadre de référence de gestion de programme pour lequel Inov-Consulting a opté est le MSP™ (Managing Successful Programme).</p><!-- /.faq-one__text -->
               <p>MSP s’appuie sur trois concepts essentiels : <br>
                   <ul>
                     <li> Les principes MSP™ issus des enseignements (positifs et négatifs) tirés des expériences sur les programmes. Ce sont les éléments communs qui constituent les moteurs de la réussite de tout changement transactionnel</li>
@@ -71,7 +70,7 @@
                 <li>Améliorer l’efficacité de l’exécution en mobilisant moins de ressources et en les utilisant à meilleur escient.</li>
               </ul>
               </p>
-              <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet TCG Conseil & Management à l’adresse info@tcg-cm.com</p>
+              <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet INOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
             </div><!-- /.faq-one__content -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->

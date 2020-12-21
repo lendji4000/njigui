@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | RGPD"
+      title: "INOV Consulting | RGPD"
     }
   }
 }

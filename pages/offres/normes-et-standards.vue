@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Normes & standards"
+      title: "INOV Consulting | Normes & standards"
     }
   }
 }

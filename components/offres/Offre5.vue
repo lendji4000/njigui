@@ -17,7 +17,6 @@
               <li class="list-group-item"> <a href="/offres/conduite-du-changement"> <span class="fa fa-arrow-right"></span> Conduite du Changement</a></li>
               <li class="list-group-item active"> <a href="/offres/delegation-de-maitrise"> <span class="fa fa-arrow-right"></span> Délégation de maîtrise d'Ouvrage</a></li>
               <li class="list-group-item"> <a href="/offres/transition-transformation"> <span class="fa fa-arrow-right"></span> Transition & Transformation</a></li>
-              <li class="list-group-item"> <a href="/offres/learn-management"> <span class="fa fa-arrow-right"></span> Learn Management</a></li>
             </ul>
 
 <!--            <div class="sidebar-header" style="margin-top: 20px">-->
@@ -35,7 +34,7 @@
         </div>
         <div class="col-lg-8">
           <div class="faq-one__content text_justify">
-            <p>Vous souhaitez déléguer l’exécution de vos projets à des experts de la gestion de projets et programmes multisectoriels ? Le cabinet Innov-Consulting prend en charge toutes les phases de réalisations de vos projets. Les différentes phases de vos chantiers de réalisation d’ouvrage sont exécutées par nos consultants :</p>
+            <p>Vous souhaitez déléguer l’exécution de vos projets à des experts de la gestion de projets et programmes multisectoriels ? Le cabinet Inov-Consulting prend en charge toutes les phases de réalisations de vos projets. Les différentes phases de vos chantiers de réalisation d’ouvrage sont exécutées par nos consultants :</p>
             <p>Nous auditons également vos projets et vous alertons sur les points de dérive.
             <ul>
             <li>Expression des besoins</li>
@@ -47,7 +46,7 @@
             <li>Gestion de risque et conduite du changement</li>
           </ul>
             </p>
-            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet Innov-Consulting à l’adresse Innov-Consulting.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->

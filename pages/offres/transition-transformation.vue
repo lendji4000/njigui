@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Transition & Transformation"
+      title: "INOV Consulting | Transition & Transformation"
     }
   }
 }

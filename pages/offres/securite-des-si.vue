@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Sécurité des systèmes d'information"
+      title: "INOV Consulting | Sécurité des systèmes d'information"
     }
   }
 }

@@ -17,7 +17,6 @@
               <li class="list-group-item"> <a href="/offres/conduite-du-changement"> <span class="fa fa-arrow-right"></span> Conduite du Changement</a></li>
               <li class="list-group-item"> <a href="/offres/delegation-de-maitrise"> <span class="fa fa-arrow-right"></span> Délégation de maîtrise d'Ouvrage</a></li>
               <li class="list-group-item active"> <a href="/offres/transition-transformation"> <span class="fa fa-arrow-right"></span> Transition & Transformation</a></li>
-              <li class="list-group-item"> <a href="/offres/learn-management"> <span class="fa fa-arrow-right"></span> Learn Management</a></li>
             </ul>
 
 <!--            <div class="sidebar-header" style="margin-top: 20px">-->
@@ -37,7 +36,7 @@
           <div class="faq-one__content text_justify ">
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
             <p>Souhaitez-vous déléguer à un fournisseur la gestion de votre système d’information ? Comment opérer cette transition en évitant une rupture des opérations et en maintenant une qualité de service élevée ?</p>
-            <p> Le cabinet Innov-Consulting a développé une méthodologie particulière de gestion de projets de Transition & Transformation (T&T).</p>
+            <p> Le cabinet Inov-Consulting a développé une méthodologie particulière de gestion de projets de Transition & Transformation (T&T).</p>
             <p> Cette méthodologie s’articule autour des points suivants :
             <ul>
             <li>Une phase de Discovery consistant à l’analyse de SI existant (Current Mode of Operation) et a la spécification du SI cible (Future Mode of Operation)</li>
@@ -46,7 +45,7 @@
             <li>Une phase de gestion du changement</li>
           </ul>
             </p>
-            <p> Nous mettons notre expertise à votre disposition et opérons avec vous la transformation de votre entreprise. Pour plus d’information sur notre offre T&T</p>
+            <p> Nous mettons notre expertise à votre disposition et opérons avec vous la transformation de votre entreprise. Pour plus d’information sur notre offre T&T, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
 
 
 
