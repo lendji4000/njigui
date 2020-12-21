@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Management des projets"
+      title: "INOV Consulting | Management des projets"
     }
   }
 }

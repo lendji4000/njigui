@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Conduite du Changement"
+      title: "INOV Consulting | Conduite du Changement"
     }
   }
 }

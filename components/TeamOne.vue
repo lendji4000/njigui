@@ -13,7 +13,7 @@
                       <div class="team-one__content">
                           <h2 class="team-one__name"><a href="/teacher-details">Augustin Njigui</a></h2>
                           <!-- /.team-one__name -->
-                          <p class="team-one__designation">Directeur Général</p><!-- /.team-one__designation -->
+                          <p class="team-one__designation">PDG</p><!-- /.team-one__designation -->
 <!--                          <p class="team-one__text">There are many varia of passages of lorem.</p>-->
                           <!-- /.team-one__text -->
                       </div><!-- /.team-one__content -->
@@ -33,7 +33,7 @@
                       <div class="team-one__content">
                           <h2 class="team-one__name"><a href="/teacher-details">Augustin Njigui</a></h2>
                           <!-- /.team-one__name -->
-                          <p class="team-one__designation">Directeur Général</p><!-- /.team-one__designation -->
+                          <p class="team-one__designation">PDG</p><!-- /.team-one__designation -->
 <!--                          <p class="team-one__text">There are many varia of passages of lorem.</p>-->
                           <!-- /.team-one__text -->
                       </div><!-- /.team-one__content -->
@@ -53,7 +53,7 @@
                       <div class="team-one__content">
                           <h2 class="team-one__name"><a href="/teacher-details">Augustin Njigui</a></h2>
                           <!-- /.team-one__name -->
-                          <p class="team-one__designation">Directeur Général</p><!-- /.team-one__designation -->
+                          <p class="team-one__designation">PDG</p><!-- /.team-one__designation -->
 <!--                          <p class="team-one__text">There are many varia of passages of lorem.</p>-->
                           <!-- /.team-one__text -->
                       </div><!-- /.team-one__content -->
@@ -73,7 +73,7 @@
                       <div class="team-one__content">
                           <h2 class="team-one__name"><a href="/teacher-details">Augustin Njigui</a></h2>
                           <!-- /.team-one__name -->
-                          <p class="team-one__designation">Directeur Général</p><!-- /.team-one__designation -->
+                          <p class="team-one__designation"> PDG</p><!-- /.team-one__designation -->
 <!--                          <p class="team-one__text">There are many varia of passages of lorem.</p>-->
                           <!-- /.team-one__text -->
                       </div><!-- /.team-one__content -->

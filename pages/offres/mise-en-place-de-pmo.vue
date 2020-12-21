@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Mise en place de PMO"
+      title: "INOV Consulting | Mise en place de PMO"
     }
   }
 }

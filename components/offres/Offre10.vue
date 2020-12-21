@@ -54,7 +54,7 @@
             <p><b>EXECUTER – Exécuter le plan d’intégration.</b></p>
             <p>MESURER ET AJUSTER – Définir des indicateurs de performance afin de mesurer l’efficacité du plan d’intégration et mettre en place des actions correctives.
               Définir des KPI et mesurer la performance du plan d’intégration par rapport aux objectifs définis durant la phase de pre-Merger. Identifier et documenter les déviations et établir des actions correctives afin de maximiser les synergies génératrices de valeur pour l’entreprise.</p>
-            <p>Pour plus d’information sur cette offre, contactez le cabinet Inov-Consulting à l’adresse Inov-consulting.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
             </p><!-- /.faq-one__text -->
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->

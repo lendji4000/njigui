@@ -46,7 +46,7 @@
                 <li>Réaliser des audits internes</li>
               </ul>
             </p>
-            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet TCG Conseil & Management à l’adresse Inov-consulting.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->

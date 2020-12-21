@@ -17,7 +17,6 @@
               <li class="list-group-item"> <a href="/offres/conduite-du-changement"> <span class="fa fa-arrow-right"></span> Conduite du Changement</a></li>
               <li class="list-group-item"> <a href="/offres/delegation-de-maitrise"> <span class="fa fa-arrow-right"></span> Délégation de maîtrise d'Ouvrage</a></li>
               <li class="list-group-item active"> <a href="/offres/transition-transformation"> <span class="fa fa-arrow-right"></span> Transition & Transformation</a></li>
-              <li class="list-group-item"> <a href="/offres/learn-management"> <span class="fa fa-arrow-right"></span> Learn Management</a></li>
             </ul>
 
 <!--            <div class="sidebar-header" style="margin-top: 20px">-->
@@ -46,7 +45,7 @@
             <li>Une phase de gestion du changement</li>
           </ul>
             </p>
-            <p> Nous mettons notre expertise à votre disposition et opérons avec vous la transformation de votre entreprise. Pour plus d’information sur notre offre T&T</p>
+            <p> Nous mettons notre expertise à votre disposition et opérons avec vous la transformation de votre entreprise. Pour plus d’information sur notre offre T&T, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
 
 
 

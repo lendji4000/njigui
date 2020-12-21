@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Délégation de maîtrise d'Ouvrage"
+      title: "INOV Consulting | Délégation de maîtrise d'Ouvrage"
     }
   }
 }

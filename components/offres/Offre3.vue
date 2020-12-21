@@ -17,7 +17,6 @@
               <li class="list-group-item"> <a href="/offres/conduite-du-changement"> <span class="fa fa-arrow-right"></span> Conduite du Changement</a></li>
               <li class="list-group-item"> <a href="/offres/delegation-de-maitrise"> <span class="fa fa-arrow-right"></span> Délégation de maîtrise d'Ouvrage</a></li>
               <li class="list-group-item"> <a href="/offres/transition-transformation"> <span class="fa fa-arrow-right"></span> Transition & Transformation</a></li>
-              <li class="list-group-item"> <a href="/offres/learn-management"> <span class="fa fa-arrow-right"></span> Learn Management</a></li>
             </ul>
 
 <!--            <div class="sidebar-header" style="margin-top: 20px">-->
@@ -50,7 +49,7 @@
               </ul>
             </p><!-- /.faq-one__text -->
 
-            <p>En plus de dispenser des séminaires dans ce domaine, le cabinet TCG Conseil & Management a mis en place des PMO pour le compte de nombreuses organisations. Prière de nous contacter à l’adresse info@tcg-cm.com pour plus d’information sur la mise en place d’un PMO au sein de votre organisation.</p>
+            <p>En plus de dispenser des séminaires dans ce domaine, le cabinet INOV Consulting a mis en place des PMO pour le compte de nombreuses organisations. Prière de nous contacter à l’adresse augustin.njigui01@gmail.com pour plus d’information sur la mise en place d’un PMO au sein de votre organisation.</p>
 
 
           </div>
