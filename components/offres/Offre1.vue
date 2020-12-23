@@ -70,7 +70,7 @@
                 <li>Améliorer l’efficacité de l’exécution en mobilisant moins de ressources et en les utilisant à meilleur escient.</li>
               </ul>
               </p>
-              <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet INOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
+              <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet INOV Consulting à l’adresse info@inov-corp.com</p>
             </div><!-- /.faq-one__content -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->

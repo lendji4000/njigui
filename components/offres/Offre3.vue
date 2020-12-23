@@ -49,7 +49,7 @@
               </ul>
             </p><!-- /.faq-one__text -->
 
-            <p>En plus de dispenser des séminaires dans ce domaine, le cabinet INOV Consulting a mis en place des PMO pour le compte de nombreuses organisations. Prière de nous contacter à l’adresse augustin.njigui01@gmail.com pour plus d’information sur la mise en place d’un PMO au sein de votre organisation.</p>
+            <p>En plus de dispenser des séminaires dans ce domaine, le cabinet INOV Consulting a mis en place des PMO pour le compte de nombreuses organisations. Prière de nous contacter à l’adresse info@inov-corp.com pour plus d’information sur la mise en place d’un PMO au sein de votre organisation.</p>
 
 
           </div>

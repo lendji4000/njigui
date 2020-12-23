@@ -11,7 +11,7 @@
                         <h2 class="block-title__title">Une équipe dévouée à votre satisfaction
                             </h2><!-- /.block-title__title -->
                     </div><!-- /.block-title -->
-                    <p class="cta-three__text"> l'équipe Inov-Consulting est constituée des hommes et des femmes spécialistes du domaine du management dont
+                    <p class="cta-three__text"> l'équipe INOV Consulting est constituée des hommes et des femmes spécialistes du domaine du management dont
                     la satisfaction cliente est une priorité !</p>
                     <!-- /.cta-three__text -->
                     <div class="cta-three__single-wrap">

@@ -39,13 +39,13 @@
             <p> Le cabinet Inov-Consulting a développé une méthodologie particulière de gestion de projets de Transition & Transformation (T&T).</p>
             <p> Cette méthodologie s’articule autour des points suivants :
             <ul>
-            <li>Une phase de Discovery consistant à l’analyse de SI existant (Current Mode of Operation) et a la spécification du SI cible (Future Mode of Operation)</li>
+            <li>Une phase de Discovery consistant à l’analyse de SI existant (Current Mode of Operation) et la spécification du SI cible (Future Mode of Operation)</li>
             <li>Une phase de planification et l’exécution de la Transition déclenchant un certain nombre de projets de migration de vos systèmes d’Information</li>
             <li>Une phase d’initialisation et d’exécution de la Transformation ayant pour but la mise en œuvre de votre système d’information cible.</li>
             <li>Une phase de gestion du changement</li>
           </ul>
             </p>
-            <p> Nous mettons notre expertise à votre disposition et opérons avec vous la transformation de votre entreprise. Pour plus d’information sur notre offre T&T, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
+            <p> Nous mettons notre expertise à votre disposition et opérons avec vous la transformation de votre entreprise. Pour plus d’information sur notre offre T&T, veuillez contacter le cabinet INOV Consulting à l’adresse info@inov-corp.com</p>
 
 
 
