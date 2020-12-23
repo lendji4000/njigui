@@ -6,9 +6,9 @@
                   <div class="about-two__content">
                       <div class="block-title text-left">
                           <h2 class="block-title__title">Bienvenue chez <br>
-                               Inov-Consulting</h2><!-- /.block-title__title -->
+                               INOV Consulting</h2><!-- /.block-title__title -->
                       </div><!-- /.block-title -->
-                      <p class="about-two__text">Inov-Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.
+                      <p class="about-two__text">INOV Consulting est un cabinet spécialisé dans le conseil et la formation en stratégie, management et organisation.
                         Nous proposons à nos clients un accompagnement sur quatre axes:
                         <br>
                     <ul>

@@ -3,7 +3,7 @@
       <div class="topbar-one">
           <div class="container">
               <div class="topbar-one__left">
-                  <a href="#">augustin.njigui01@gmail.com</a>
+                  <a href="#">info@inov-corp.com</a>
                   <a href="#">+33 (0)6 98 56 66 33 </a>
               </div><!-- /.topbar-one__left -->
 <!--              <div class="topbar-one__right">-->

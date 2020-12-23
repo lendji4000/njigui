@@ -8,7 +8,7 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-manager"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">A propos </h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text"> Inov-Consulting <br> vous accompagne tout au long de vos
+                          <p class="contact-info-one__text"> Inov Consulting <br> vous accompagne tout au long de vos
                               <br>
                              projets numériques </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
@@ -27,7 +27,7 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-contact"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Contact </h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">augustin.njigui01@gmail.com
+                          <p class="contact-info-one__text">info@inov-corp.com
                             <br>
                             +33 (0)6 98 56 66 33 <br> &nbsp; </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
@@ -77,7 +77,7 @@ import API from "../API/index"
       },
       methods: {
           envoieFormulaire:async function () {
-            API.createContact({email:this.email, title:this.name, description:this.message, mail:"augustin.njigui01@gmail.com"}).then((data) => {
+            API.createContact({email:this.email, title:this.name, description:this.message, mail:"info@inov-corp.com"}).then((data) => {
               console.log("contact",data)})
           }
       }

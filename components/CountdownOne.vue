@@ -52,7 +52,7 @@ export default {
   },
   methods: {
     envoieFormulaire:async function () {
-      API.createContact({email:this.email, title:this.name, description:this.message, mail:"augustin.njigui01@gmail.com"}).then((data) => {
+      API.createContact({email:this.email, title:this.name, description:this.message, mail:"info@inov-corp.com"}).then((data) => {
         console.log("contact",data)})
     }
   }

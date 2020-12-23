@@ -36,7 +36,7 @@ export default {
   },
   methods: {
     envoieFormulaire: async function () {
-      API.createContact({email: this.email, mail: "augustin.njigui01@gmail.com"}).then((data) => {
+      API.createContact({email: this.email, mail: "info@inov-corp.com"}).then((data) => {
         console.log("souscrire", data)
       })
     },

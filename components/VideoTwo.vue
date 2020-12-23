@@ -5,7 +5,7 @@
           <div class="row">
               <div class="col-lg-7">
                   <div class="video-two__content">
-                      <h2 class="video-two__title">Inov-Consulting <br>
+                      <h2 class="video-two__title">INOV Consulting <br>
                           le meilleur dans la gestion de projets IT</h2><!-- /.video-two__title -->
                       <a href="/about" class="thm-btn">En savoir plus</a><!-- /.thm-btn -->
                   </div><!-- /.video-two__content -->

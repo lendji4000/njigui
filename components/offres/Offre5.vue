@@ -46,7 +46,7 @@
             <li>Gestion de risque et conduite du changement</li>
           </ul>
             </p>
-            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet IINOV Consulting à l’adresse augustin.njigui01@gmail.com</p>
+            <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet INOV Consulting à l’adresse info@inov-corp.com</p>
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
