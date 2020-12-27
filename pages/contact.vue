@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader title1="Nous Contacté" />
+    <PageHeader title1="Nous Contacter" />
     <Contact />
     <Footer />
   </div>
@@ -15,7 +15,7 @@
     components: {Contact, Footer, NavOne, PageHeader},
     head(){
       return {
-        title: "Innov-Consulting | Nous Contacté"
+        title: "Innov-Consulting | Nous Contacter"
       }
     }
   }

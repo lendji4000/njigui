@@ -25,7 +25,7 @@
             </div>
 
             <ul class="list-group" style="margin-top: 20px">
-              <li class="list-group-item"> <a href="/offres/gouvernance-schema"> <span class="fa fa-arrow-right"></span> Gouvernance & Shéma directeur</a></li>
+              <li class="list-group-item"> <a href="/offres/gouvernance-schema"> <span class="fa fa-arrow-right"></span> Gouvernance & Schéma directeur</a></li>
               <li class="list-group-item active"> <a href="/offres/securite-des-si"> <span class="fa fa-arrow-right"></span> Sécurité des systèmes d'information</a></li>
               <li class="list-group-item"> <a href="/offres/normes-et-standards"> <span class="fa fa-arrow-right"></span> Normes & standards</a></li>
               <li class="list-group-item"> <a href="/offres/fusion-et-acquisitions"> <span class="fa fa-arrow-right"></span> Fusions & Acquisitions</a></li>
@@ -40,7 +40,7 @@
             <p>La sécurité des systèmes d’information est un enjeu majeur pour les entreprises. Vous vous interrogez sur les menaces auxquelles votre entreprise est exposée ? Quelle est la maturité des processus mis en place au sein de votre organisation ayant pour objectif de garantir la Confidentialité, la Disponibilité et l’Intégrité des données ?</p>
             <p>Inov-Consulting à travers son offre Sécurité des Systèmes d’Information vous accompagne dans l’évaluation et la gestion des risques et vulnérabilités, la mise en place d’une gouvernance de la sécurité de vos systèmes d’information ainsi que la sécurisation de vos opérations.</p>
             <p>Quelques normes et standards : SOX IT, PCI DSS, ISO 2700x, COBIT, etc..</p>
-            <p>Pour plus d’information sur la mise en place de ces normes, veuillez contacter le cabinet IINOV Consulting à l’adresse info@inov-corp.com</p>          </div><!-- /.faq-one__content -->
+            <p>Pour plus d’information sur la mise en place de ces normes, veuillez contacter le cabinet INOV Consulting à l’adresse info@inov-corp.com</p>          </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
       </div><!-- /.row -->
     </div><!-- /.container -->

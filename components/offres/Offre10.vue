@@ -25,7 +25,7 @@
             </div>
 
             <ul class="list-group" style="margin-top: 20px">
-              <li class="list-group-item"> <a href="/offres/gouvernance-schema"> <span class="fa fa-arrow-right"></span> Gouvernance & Shéma directeur</a></li>
+              <li class="list-group-item"> <a href="/offres/gouvernance-schema"> <span class="fa fa-arrow-right"></span> Gouvernance & Schéma directeur</a></li>
               <li class="list-group-item"> <a href="/offres/securite-des-si"> <span class="fa fa-arrow-right"></span> Sécurité des systèmes d'information</a></li>
               <li class="list-group-item"> <a href="/offres/normes-et-standards"> <span class="fa fa-arrow-right"></span> Normes & standards</a></li>
               <li class="list-group-item active"> <a href="/offres/fusion-et-acquisitions"> <span class="fa fa-arrow-right"></span> Fusions & Acquisitions</a></li>
@@ -36,7 +36,7 @@
         <div class="col-lg-8">
           <div class="faq-one__content">
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
-            <p>Au cours d’une opération de Fusion et Acquisition, maximiser les synergies en minimisant les interruptions de service nécessite une approche structurée et maîtrisée. Innov-Consulting a développé une offre « Merger & Acquisition –  IT Intégration Roadmap » en partenariat avec les meilleurs spécialistes de ce domaine. Nous assistons nos clients depuis la phase d’évaluation (Pre-Merger)  jusqu’à l’implémentation du plan d’intégration (Post-Merger) des Systèmes d’Information.
+            <p>Au cours d’une opération de Fusion et Acquisition, maximiser les synergies en minimisant les interruptions de service nécessite une approche structurée et maîtrisée. Inov Consulting a développé une offre « Merger & Acquisition –  IT Intégration Roadmap » en partenariat avec les meilleurs spécialistes de ce domaine. Nous assistons nos clients depuis la phase d’évaluation (Pre-Merger)  jusqu’à l’implémentation du plan d’intégration (Post-Merger) des Systèmes d’Information.
             <h5>Notre offre s’articule autour de quatre objectifs :</h5>
             <p><b>EVALUER</b>  – Collaborer avec les différentes fonctions de la cible  afin de s’assurer que les infrastructures, les applications, les projets, les processus, les budgets ainsi que les risques sont bien évalués et pris en compte dans la définition du plan d’intégration.</p>
             <p>A l’issue de cette phase un « IT Due Diligence Report » est produit.</p>

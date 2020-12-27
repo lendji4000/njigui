@@ -5,7 +5,7 @@
             <div class="col-lg-6">
                 <div class="countdown-one__content">
                     <h2 class="countdown-one__title">Nous contacter</h2><!-- /.countdown-one__title -->
-                    <p class="countdown-one__tag-line">Une équipe toujours a votre écoute</p>
+                    <p class="countdown-one__tag-line">Une équipe toujours à votre écoute</p>
                     <!-- /.countdown-one__tag-line -->
                     <p class="countdown-one__text">
                       A travers notre cabinet, Inov consulting, nous formons les leaders de demain aux bonnes pratiques du management et de gestion.
