@@ -25,7 +25,7 @@
 
             <h2 class="become-teacher__subtitle">Une équipe dynamique et pluridisciplinaire</h2><!-- /.become-teacher__subtitle -->
 
-            <p class="become-teacher__text">Le PDG totalisent plusieurs années d’expertise au sein de grandes multinationales des secteurs Pharmaceutique, Bancaire, Services, Télécommunications, nucléaires, luxe, automobile et Technologie de l’information.</p><!-- /.become-teacher__text -->
+            <p class="become-teacher__text">Le PDG totalise plusieurs années d’expertise au sein de grandes multinationales des secteurs Pharmaceutique, Bancaire, Services, Télécommunications, nucléaires, luxe, automobile et Technologie de l’information.</p><!-- /.become-teacher__text -->
 
             <h2 class="become-teacher__subtitle">Notre valeur ajoutée </h2><!-- /.become-teacher__subtitle -->
 

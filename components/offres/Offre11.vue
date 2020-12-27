@@ -25,7 +25,7 @@
             </div>
 
             <ul class="list-group" style="margin-top: 20px">
-              <li class="list-group-item"> <a href="/offres/gouvernance-schema"> <span class="fa fa-arrow-right"></span> Gouvernance & Shéma directeur</a></li>
+              <li class="list-group-item"> <a href="/offres/gouvernance-schema"> <span class="fa fa-arrow-right"></span> Gouvernance & Schéma directeur</a></li>
               <li class="list-group-item"> <a href="/offres/securite-des-si"> <span class="fa fa-arrow-right"></span> Sécurité des systèmes d'information</a></li>
               <li class="list-group-item"> <a href="/offres/normes-et-standards"> <span class="fa fa-arrow-right"></span> Normes & standards</a></li>
               <li class="list-group-item"> <a href="/offres/fusion-et-acquisitions"> <span class="fa fa-arrow-right"></span> Fusions & Acquisitions</a></li>
