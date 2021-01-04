@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavOne />
-    <PageHeader  title1=" Innov-Consulting " title2=" Nos valeurs" />
+    <PageHeader  title1=" Inov-Consulting " title2=" Nos valeurs" />
     <NosValeurs />
     <Footer/>
   </div>
@@ -23,7 +23,7 @@ export default {
   },
   head(){
     return {
-      title: "Innov Consulting | Nos Valeurs"
+      title: "Inov Consulting | Nos Valeurs"
     }
   }
 }
