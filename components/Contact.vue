@@ -29,7 +29,7 @@
                           <h2 class="contact-info-one__title">Contact </h2><!-- /.contact-info-one__title -->
                           <p class="contact-info-one__text">info@inov-corp.com
                             <br>
-                            +33 (0)6 98 56 66 33 <br> &nbsp; </p><!-- /.contact-info-one__text -->
+                             <br> &nbsp; </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
               </div><!-- /.row -->
