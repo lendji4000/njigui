@@ -12,7 +12,7 @@
                       <div class="col-xl-12">
                           <h1 class="banner-one__title banner-one__light-color">l'accompagnement dans <br>
                               vos projets IT</h1><!-- /.banner-one__title -->
-                          <p class="banner-one__tag-line">quelles sont vos projet?</p><!-- /.banner-one__tag-line -->
+                          <p class="banner-one__tag-line">Quelles sont vos projets?</p><!-- /.banner-one__tag-line -->
                           <a href="#" class="thm-btn banner-one__btn">En savoir plus</a>
                       </div><!-- /.col-xl-12 -->
                   </div><!-- /.row -->
@@ -29,7 +29,7 @@
                       <div class="col-xl-12">
                           <h3 class="banner-one__title banner-one__light-color">Définir votre <br>
                               Stratégie de Gestions</h3><!-- /.banner-one__title -->
-                          <p class="banner-one__tag-line">êtes vous prêt à vous lancer?</p><!-- /.banner-one__tag-line -->
+                          <p class="banner-one__tag-line">Etes vous prêts à vous lancer?</p><!-- /.banner-one__tag-line -->
                           <a href="#" class="thm-btn banner-one__btn">En savoir plus</a>
                       </div><!-- /.col-xl-12 -->
                   </div><!-- /.row -->
