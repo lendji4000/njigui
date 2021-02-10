@@ -8,10 +8,12 @@
                     <p class="countdown-one__tag-line">Une équipe toujours à votre écoute</p>
                     <!-- /.countdown-one__tag-line -->
                     <p class="countdown-one__text">
-                      A travers notre cabinet, Inov consulting, nous formons les leaders de demain aux bonnes pratiques du management et de gestion.
-
-                      Centre d’excellence et de partage d’expérience terrain, Inov consulting a obtenu de nombreuses certifications et accréditations et
-                      octroie les plus prestigieuses certifications en management et gestion </p><!-- /.countdown-one__text -->
+                      A travers notre cabinet, Inov consulting, nous accompagnons nous clients dans la conduite de leur
+                      projets, l'amélioration de leur proccess interne et la mise en place des méthodologies et bonne pratiques.
+                      Inov Consulting a aussi pour activité principale, la formation des collaborateurs internes aux externes aux
+                      bonnes pratiques du management et de gestion. Dans le but de devenir un centre d’excellence et de partage
+                      d’expérience terrain, Inov consulting travaille actuellement en vue
+                      de l'obtention de certifications et accréditations afin de pouvoir octroyer des certifications en management et gestion </p><!-- /.countdown-one__text -->
 <!--                    <ul class="countdown-one__list list-unstyled">-->
 <!--                        &lt;!&ndash; content loading via js &ndash;&gt;-->
 <!--                    </ul>&lt;!&ndash; /.coundown-one__list &ndash;&gt;-->

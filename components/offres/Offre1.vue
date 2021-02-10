@@ -17,6 +17,8 @@
                 <li class="list-group-item"> <a href="/offres/conduite-du-changement"> <span class="fa fa-arrow-right"></span> Conduite du Changement</a></li>
                 <li class="list-group-item"> <a href="/offres/delegation-de-maitrise"> <span class="fa fa-arrow-right"></span> Délégation de maîtrise d'Ouvrage</a></li>
                 <li class="list-group-item"> <a href="/offres/transition-transformation"> <span class="fa fa-arrow-right"></span> Transition & Transformation</a></li>
+                <li class="list-group-item"> <a href="/offres/lean-management"> <span class="fa fa-arrow-right"></span> LEAN Management</a></li>
+
               </ul>
 
 <!--              <div class="sidebar-header" style="margin-top: 20px">-->

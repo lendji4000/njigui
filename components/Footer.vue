@@ -21,7 +21,7 @@
 <!--                              </div>&lt;!&ndash; /.col-lg-3 &ndash;&gt;-->
                               <div class="col-xl-3 col-lg-6 col-sm-12">
                                   <div class="footer-widget footer-widget__link">
-                                      <h2 class="footer-widget__title">Exploré</h2><!-- /.footer-widget__title -->
+                                      <h2 class="footer-widget__title">Explorer</h2><!-- /.footer-widget__title -->
                                       <div class="footer-widget__link-wrap">
                                           <ul class="list-unstyled footer-widget__link-list">
                                               <li><a href="/">L'Entreprise</a></li>

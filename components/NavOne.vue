@@ -62,8 +62,8 @@
                         <li class="current">
                           <a href="#">Activités <i class="fas fa-caret-down"></i></a>
                           <ul class="sub-menu">
-                            <li><a href="/offres/management-de-portfolio-et-programmes">Activité 1: Management opérationnel</a></li>
-                            <li><a href="/offres/gouvernance-schema">Activité 2: Gouvernance & Organisation</a></li>
+                            <li><a href="/offres/management-de-portfolio-et-programmes"> Management opérationnel</a></li>
+                            <li><a href="/offres/gouvernance-schema">Gouvernance & Organisation</a></li>
                           </ul><!-- /.sub-menu -->
                         </li>
                           <li>

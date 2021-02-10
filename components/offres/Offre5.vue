@@ -32,24 +32,28 @@
 <!--            </ul>-->
           </nav>
         </div>
+
         <div class="col-lg-8">
           <div class="faq-one__content text_justify">
             <p>Vous souhaitez déléguer l’exécution de vos projets à des experts de la gestion de projets et programmes multisectoriels ? Le cabinet Inov-Consulting prend en charge toutes les phases de réalisations de vos projets. Les différentes phases de vos chantiers de réalisation d’ouvrage sont exécutées par nos consultants :</p>
             <p>Nous auditons également vos projets et vous alertons sur les points de dérive.
+
             <ul>
-            <li>Expression des besoins</li>
-            <li>Planification</li>
-            <li>Benchmarking des solutions techniques</li>
-            <li>Appel d’offre et de sélection des fournisseurs</li>
-            <li>Suivi de la réalisation du projet</li>
-            <li>Validation et recette</li>
-            <li>Gestion de risque et conduite du changement</li>
+              <li>Expression des besoins</li>
+              <li>Planification</li>
+              <li>Benchmarking des solutions techniques</li>
+              <li>Appel d’offre et de sélection des fournisseurs</li>
+              <li>Suivi de la réalisation du projet</li>
+              <li>Validation et recette</li>
+              <li>Gestion de risque et conduite du changement</li>
           </ul>
             </p>
+
             <p>Pour plus d’information sur cette offre, veuillez contacter le cabinet INOV Consulting à l’adresse info@inov-corp.com</p>
             <!-- <h2 class="faq-one_title">How long are your contracts?</h2>/.faq-one_title -->
           </div><!-- /.faq-one__content -->
         </div><!-- /.col-lg-6 -->
+
       </div><!-- /.row -->
     </div><!-- /.container -->
   </section>
