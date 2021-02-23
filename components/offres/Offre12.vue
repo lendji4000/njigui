@@ -42,7 +42,7 @@
               Il nous propose un système global efficace et performant reposant  sur deux piliers,
               respect des personnes et amélioration continue, ainsi que sur 14 principes de management, hautement différentiateurs.</p><br>
 
-            <p>Le cabinet TCG Conseil & Management vous accompagne dans la mise en œuvre des processus recommandés par le LEAN qui sont fondés sur
+            <p>Le cabinet Inov Consulting vous accompagne dans la mise en œuvre des processus recommandés par le LEAN qui sont fondés sur
               le principe que le les bons processus donneront les bons résultats.</p>
 
             <h5>Les 14 principes du Lean Management</h5>
@@ -79,7 +79,7 @@
             </p>
 
             <p>Suite à la mise en place et/ou l’évaluation de la maturité de ces processus au sein de votre organisation,
-              Inov Consulting  vous attribue une notation. Pour plus de détail sur la notation TCG Conseil & Management veuillez nous contacter à l’adresse info@inov-corp.com
+              Inov Consulting  vous attribue une notation. Pour plus de détail sur la notation Inov Consulting veuillez nous contacter à l’adresse info@inov-corp.com
             </p>
 
 
